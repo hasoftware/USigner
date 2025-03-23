@@ -32,7 +32,7 @@
             "name": "Facebook",
 			"bundleIdentifier": "com.facebook.Facebook",
 			"developerName": "Facebook",
-			"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/34/52/fa3452b7-1380-1c12-d96b-2405c57149ad/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/230x0w.png",
+			"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/34/52/fa3452b7-1380-1c12-d96b-2405c57149ad/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png",
 			"localizedDescription": "Facebook is a free on-device iOS application manager/installer built with UIKit for quality.",
 			"subtitle": "Social media platform",
 			"tintColor": "3b5998",
@@ -43,9 +43,9 @@
 					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
 					"appPermissions": {},
 					"screenshotURLs": [
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/71/bf/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff/1-iOS-Home.png/230x0w.png",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png/230x0w.png",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png/230x0w.png"
+                        "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/PurpleSource221\/v4\/1a\/71\/bf\/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff\/1-iOS-Home.png",
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png",
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png"
                     ]    
 				}
 			]
@@ -65,9 +65,9 @@
 					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
 					"appPermissions": {},
 					    "screenshotURLs": [
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/71/bf/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff/1-iOS-Home.png/230x0w.png",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png/230x0w.png",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png/230x0w.png"
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/71/bf/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff/1-iOS-Home.png",
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png",
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png"
                     ]
 				}
 			]
