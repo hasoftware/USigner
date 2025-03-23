@@ -7,7 +7,7 @@
 			"name": "USigner",
 			"bundleIdentifier": "com.ucerts.usigner.io",
 			"developerName": "UCerts",
-			"iconURL": "",
+			"iconURL": "https://ucerts.io/public/icons/navbar_icon.png",
 			"localizedDescription": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
 			"subtitle": "On-device signing application",
 			"tintColor": "848ef9",
