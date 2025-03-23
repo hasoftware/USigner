@@ -11,9 +11,7 @@
 			"localizedDescription": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
 			"subtitle": "On-device signing application",
 			"tintColor": "848ef9",
-			"versions": [
-				{
-					"version": "1.0.0",
+			"version": "1.0.0",
 					"versionDate": "2025-03-23T18:35:10Z",
 					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
 					"appPermissions": {},
@@ -25,8 +23,6 @@
                         "https://ucerts.io/public/icons/navbar_icon.png",
                         "https://ucerts.io/public/icons/navbar_icon.png"
                     ]
-				}
-			]
 		},
         {
             "name": "Facebook",
@@ -36,19 +32,16 @@
 			"localizedDescription": "Facebook is a free on-device iOS application manager/installer built with UIKit for quality.",
 			"subtitle": "Social media platform",
 			"tintColor": "3b5998",
-			"versions": [
-				{
-					"version": "490.1.2",
-					"versionDate": "2025-03-23T18:35:10Z",
-					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
-					"appPermissions": {},
-					"screenshotURLs": [
-                        "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/PurpleSource221\/v4\/1a\/71\/bf\/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff\/1-iOS-Home.png",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png"
-                    ]    
-				}
-			]
+            "size": 12375230,
+            "version": "490.1.2",
+            "versionDate": "2025-03-23T18:35:10Z",
+            "downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
+            "appPermissions": {},
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/71/bf/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff/1-iOS-Home.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png"   
+            ]   
 		},
         {
             "name": "Instagram",
@@ -58,9 +51,8 @@
 			"localizedDescription": "Instagram is a free on-device iOS application manager/installer built with UIKit for quality.",
 			"subtitle": "Social media platform",
 			"tintColor": "c32aa3",
-			"versions": [
-				{
-					"version": "210.1.2",
+			"size": 12375230,
+            "version": "210.1.2",
 					"versionDate": "2025-03-23T18:35:10Z",
 					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
 					"appPermissions": {},
@@ -69,8 +61,6 @@
                         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png",
                         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png"
                     ]
-				}
-			]
 		}
 	],
 	"news": [
