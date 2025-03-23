@@ -1,0 +1,101 @@
+{
+	"name": "USigner Repository by UCerts",
+	"identifier": "com.ucerts.usigner.io-repo",
+	"iconURL": "",
+	"apps": [
+		{
+			"name": "USigner",
+			"bundleIdentifier": "com.ucerts.usigner.io",
+			"developerName": "UCerts",
+			"iconURL": "",
+			"localizedDescription": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
+			"subtitle": "On-device signing application",
+			"tintColor": "848ef9",
+			"versions": [
+				{
+					"version": "1.0.0",
+					"versionDate": "2025-03-23T18:35:10Z",
+					"downloadURL": "",
+					"appPermissions": {},
+					"screenshotURLs": []
+				}
+			]
+		},
+        {
+            "name": "Facebook",
+			"bundleIdentifier": "com.facebook.Facebook",
+			"developerName": "Facebook",
+			"iconURL": "",
+			"localizedDescription": "Facebook is a free on-device iOS application manager/installer built with UIKit for quality.",
+			"subtitle": "Social media platform",
+			"tintColor": "3b5998",
+			"versions": [
+				{
+					"version": "1.0.0",
+					"versionDate": "2025-03-23T18:35:10Z",
+					"downloadURL": "",
+					"appPermissions": {},
+					"screenshotURLs": []    
+				}
+			]
+		},
+        {
+            "name": "Instagram",
+			"bundleIdentifier": "com.instagram.Instagram",
+			"developerName": "Instagram",
+			"iconURL": "",
+			"localizedDescription": "Instagram is a free on-device iOS application manager/installer built with UIKit for quality.",
+			"subtitle": "Social media platform",
+			"tintColor": "c32aa3",
+			"versions": [
+				{
+					"version": "1.0.0",
+					"versionDate": "2025-03-23T18:35:10Z",
+					"downloadURL": "",
+					"appPermissions": {},
+					"screenshotURLs": []
+				}
+			]
+		},
+        {
+            "name": "Twitter",
+			"bundleIdentifier": "com.twitter.Twitter",
+			"developerName": "Twitter",
+			"iconURL": "",
+			"localizedDescription": "Twitter is a free on-device iOS application manager/installer built with UIKit for quality.",
+			"subtitle": "Social media platform",
+			"tintColor": "1da1f2",
+			"versions": [
+				{
+					"version": "1.0.0",
+					"versionDate": "2025-03-23T18:35:10Z",
+					"downloadURL": "",
+					"appPermissions": {},
+					"screenshotURLs": []
+				}   
+			]
+		}           
+	],
+	"news": [
+		{
+			"title": "",
+			"identifier": "usigner-news",
+			"caption": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
+			"tintColor": "848ef9",
+			"imageURL": "",
+			"url": "",
+			"date": "2025-03-23",
+			"notify": false
+		},
+		{
+			"title": "USigner",
+			"identifier": "usigner-news",
+			"caption": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
+			"tintColor": "848ef9",
+			"imageURL": "",
+			"url": "",
+			"date": "2025-03-23",
+			"notify": false
+		}   
+	]
+}
