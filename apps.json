@@ -1,7 +1,7 @@
 {
 	"name": "USigner Repository by UCerts",
 	"identifier": "com.ucerts.usigner.io-repo",
-	"iconURL": "",
+	"iconURL": "https://ucerts.io/public/icons/navbar_icon.png",
 	"apps": [
 		{
 			"name": "USigner",
@@ -17,7 +17,14 @@
 					"versionDate": "2025-03-23T18:35:10Z",
 					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
 					"appPermissions": {},
-					"screenshotURLs": []
+					"screenshotURLs": [
+                        "https://ucerts.io/public/icons/navbar_icon.png",
+                        "https://ucerts.io/public/icons/navbar_icon.png",
+                        "https://ucerts.io/public/icons/navbar_icon.png",
+                        "https://ucerts.io/public/icons/navbar_icon.png",
+                        "https://ucerts.io/public/icons/navbar_icon.png",
+                        "https://ucerts.io/public/icons/navbar_icon.png"
+                    ]
 				}
 			]
 		},
@@ -85,7 +92,7 @@
 			"imageURL": "https://ucerts.io/public/icons/navbar_icon.png",
 			"url": "https://ucerts.io/public/icons/navbar_icon.png",
 			"date": "2025-03-23",
-			"notify": false
+			"notify": true
 		}   
 	]
 }
