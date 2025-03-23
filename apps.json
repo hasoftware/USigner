@@ -1,13 +1,13 @@
 {
 	"name": "USigner Repository by UCerts",
 	"identifier": "com.ucerts.usigner.io-repo",
-	"iconURL": "https://ucerts.io/public/icons/navbar_icon.png",
+	"iconURL": "",
 	"apps": [
 		{
 			"name": "USigner",
 			"bundleIdentifier": "com.ucerts.usigner.io",
 			"developerName": "UCerts",
-			"iconURL": "https://ucerts.io/public/icons/navbar_icon.png",
+			"iconURL": "",
 			"localizedDescription": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
 			"subtitle": "On-device signing application",
 			"tintColor": "848ef9",
@@ -15,13 +15,9 @@
 				{
 					"version": "1.0.0",
 					"versionDate": "2025-03-23T18:35:10Z",
-					"downloadURL": "https://ucerts.io/public/apps/usigner/usigner.ipa",
+					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
 					"appPermissions": {},
-					"screenshotURLs": [
-                        "https://ucerts.io/public/apps/usigner/usigner_1.png",
-                        "https://ucerts.io/public/apps/usigner/usigner_2.png",
-                        "https://ucerts.io/public/apps/usigner/usigner_3.png"
-                    ]
+					"screenshotURLs": []
 				}
 			]
 		},
@@ -29,7 +25,7 @@
             "name": "Facebook",
 			"bundleIdentifier": "com.facebook.Facebook",
 			"developerName": "Facebook",
-			"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/34/52/fa3452b7-1380-1c12-d96b-2405c57149ad/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/230x0w.webp",
+			"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/34/52/fa3452b7-1380-1c12-d96b-2405c57149ad/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/230x0w.png",
 			"localizedDescription": "Facebook is a free on-device iOS application manager/installer built with UIKit for quality.",
 			"subtitle": "Social media platform",
 			"tintColor": "3b5998",
@@ -37,12 +33,12 @@
 				{
 					"version": "490.1.2",
 					"versionDate": "2025-03-23T18:35:10Z",
-					"downloadURL": "hhttps://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Facebook_498.0.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
+					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
 					"appPermissions": {},
 					"screenshotURLs": [
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/71/bf/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff/1-iOS-Home.png/230x0w.webp",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png/230x0w.webp",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png/230x0w.webp"
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/71/bf/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff/1-iOS-Home.png/230x0w.png",
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png/230x0w.png",
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png/230x0w.png"
                     ]    
 				}
 			]
@@ -51,24 +47,24 @@
             "name": "Instagram",
 			"bundleIdentifier": "com.instagram.Instagram",
 			"developerName": "Instagram",
-			"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/34/52/fa3452b7-1380-1c12-d96b-2405c57149ad/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/230x0w.webp",
+			"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d8/9d/95d89d9a-7eab-2743-0405-79023e5f697b/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/230x0w.webp",
 			"localizedDescription": "Instagram is a free on-device iOS application manager/installer built with UIKit for quality.",
 			"subtitle": "Social media platform",
 			"tintColor": "c32aa3",
 			"versions": [
 				{
-					"version": "202.0.0.11.118",
+					"version": "210.1.2",
 					"versionDate": "2025-03-23T18:35:10Z",
-					"downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Instagram_370.0.0_Regram_b23_%40thisismanpreets_apptesters.org.ipa",
+					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
 					"appPermissions": {},
-					"screenshotURLs": [
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/62/09/e26209f6-0528-c861-8220-81cebf265b1f/1_iOS_6.7.jpg/230x0w.webp",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/29/cc/5229cc1b-c16a-aa50-73f1-e5c7a40bf12c/2_iOS_6.7.jpg/230x0w.webp",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/60/23/606023fb-33d6-79e8-bcfe-7793257abd65/3_iOS_6.7.jpg/230x0w.webp"
+					    "screenshotURLs": [
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/71/bf/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff/1-iOS-Home.png/230x0w.png",
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png/230x0w.png",
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png/230x0w.png"
                     ]
 				}
 			]
-		}      
+		}
 	],
 	"news": [
 		{
@@ -76,8 +72,8 @@
 			"identifier": "usigner-news",
 			"caption": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
 			"tintColor": "848ef9",
-			"imageURL": "https://github.com/khcrysalis/Feather/blob/main/Images/donate.png?raw=true",
-			"url": "https://github.com/sponsors/khcrysalis",
+			"imageURL": "https://ucerts.io/public/icons/navbar_icon.png",
+			"url": "https://ucerts.io/public/icons/navbar_icon.png",
 			"date": "2025-03-23",
 			"notify": false
 		},
@@ -86,10 +82,10 @@
 			"identifier": "usigner-news",
 			"caption": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
 			"tintColor": "848ef9",
-			"imageURL": "https://media.idownloadblog.com/wp-content/uploads/2024/08/Feather-on-device-signing-UI-app.jpg",
-			"url": "https://github.com/sponsors/khcrysalis",      
+			"imageURL": "https://ucerts.io/public/icons/navbar_icon.png",
+			"url": "https://ucerts.io/public/icons/navbar_icon.png",
 			"date": "2025-03-23",
-			"notify": true
+			"notify": false
 		}   
 	]
 }
