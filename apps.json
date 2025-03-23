@@ -1,88 +1,465 @@
 {
-	"name": "USigner Repository by UCerts",
-	"identifier": "com.ucerts.usigner.io-repo",
-	"iconURL": "https://ucerts.io/public/icons/navbar_icon.png",
-	"apps": [
-		{
-			"name": "USigner",
-			"bundleIdentifier": "com.ucerts.usigner.io",
-			"developerName": "UCerts",
-			"iconURL": "https://ucerts.io/public/icons/navbar_icon.png",
-			"localizedDescription": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
-			"subtitle": "On-device signing application",
-			"tintColor": "848ef9",
-			"version": "1.0.0",
-					"versionDate": "2025-03-23T18:35:10Z",
-					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
-					"appPermissions": {},
-					"screenshotURLs": [
-                        "https://ucerts.io/public/icons/navbar_icon.png",
-                        "https://ucerts.io/public/icons/navbar_icon.png",
-                        "https://ucerts.io/public/icons/navbar_icon.png",
-                        "https://ucerts.io/public/icons/navbar_icon.png",
-                        "https://ucerts.io/public/icons/navbar_icon.png",
-                        "https://ucerts.io/public/icons/navbar_icon.png"
-                    ]
-		},
-        {
-            "name": "Facebook",
-			"bundleIdentifier": "com.facebook.Facebook",
-			"developerName": "Facebook",
-			"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/34/52/fa3452b7-1380-1c12-d96b-2405c57149ad/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png",
-			"localizedDescription": "Facebook is a free on-device iOS application manager/installer built with UIKit for quality.",
-			"subtitle": "Social media platform",
-			"tintColor": "3b5998",
-            "size": 12375230,
-            "version": "490.1.2",
-            "versionDate": "2025-03-23T18:35:10Z",
-            "downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
-            "appPermissions": {},
-            "screenshotURLs": [
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/71/bf/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff/1-iOS-Home.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png"   
-            ]   
-		},
-        {
-            "name": "Instagram",
-			"bundleIdentifier": "com.instagram.Instagram",
-			"developerName": "Instagram",
-			"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d8/9d/95d89d9a-7eab-2743-0405-79023e5f697b/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/230x0w.webp",
-			"localizedDescription": "Instagram is a free on-device iOS application manager/installer built with UIKit for quality.",
-			"subtitle": "Social media platform",
-			"tintColor": "c32aa3",
-			"size": 12375230,
-            "version": "210.1.2",
-					"versionDate": "2025-03-23T18:35:10Z",
-					"downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
-					"appPermissions": {},
-					    "screenshotURLs": [
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/71/bf/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff/1-iOS-Home.png",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png",
-                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png"
-                    ]
-		}
-	],
-	"news": [
-		{
-			"title": "About USigner",
-			"identifier": "usigner-news",
-			"caption": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
-			"tintColor": "848ef9",
-			"imageURL": "https://ucerts.io/public/icons/navbar_icon.png",
-			"url": "https://ucerts.io/public/icons/navbar_icon.png",
-			"date": "2025-03-23",
-			"notify": false
-		},
-		{
-			"title": "USigner",
-			"identifier": "usigner-news",
-			"caption": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
-			"tintColor": "848ef9",
-			"imageURL": "https://ucerts.io/public/icons/navbar_icon.png",
-			"url": "https://ucerts.io/public/icons/navbar_icon.png",
-			"date": "2025-03-23",
-			"notify": true
-		}   
-	]
+  "name": "USigner Repository by UCerts",
+  "identifier": "com.ucerts.usigner.io-repo",
+  "iconURL": "https://ucerts.io/public/icons/navbar_icon.png",
+  "apps": [
+    {
+      "name": "USigner",
+      "bundleIdentifier": "com.ucerts.usigner.io",
+      "developerName": "hoanganhdev",
+      "iconURL": "https://ucerts.io/public/icons/navbar_icon.png",
+      "localizedDescription": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "subtitle": "On-device signing application",
+      "tintColor": "848ef9",
+      "size": 0,
+      "version": "1.0.0",
+      "versionDate": "2025-03-23T11:35:00.000Z",
+      "downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://ucerts.io/public/icons/navbar_icon.png",
+        "https://ucerts.io/public/icons/navbar_icon.png",
+        "https://ucerts.io/public/icons/navbar_icon.png",
+        "https://ucerts.io/public/icons/navbar_icon.png",
+        "https://ucerts.io/public/icons/navbar_icon.png",
+        "https://ucerts.io/public/icons/navbar_icon.png"
+      ]
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.instagram.Instagram",
+      "developerName": "Instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d8/9d/95d89d9a-7eab-2743-0405-79023e5f697b/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/230x0w.webp",
+      "localizedDescription": "Instagram is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "subtitle": "Social media platform",
+      "tintColor": "c32aa3",
+      "size": 12375230,
+      "version": "210.1.2",
+      "versionDate": "2025-03-23T18:35:10Z",
+      "downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/71/bf/1a71bfc7-92ed-0a28-e6b7-a34e983a65ff/1-iOS-Home.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/76/763476a0-4e4d-c8c6-7b83-202f4bf6a200/2-iOS-Reels.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/1c/d7/751cd747-e75b-41d5-2733-7616ba3af057/3-iOS-Stories.png"
+      ]
+    },
+    {
+      "name": "Facebook",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "Meta Platforms, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/34/52/fa3452b7-1380-1c12-d96b-2405c57149ad/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Where real people propel your curiosity. Whether you’re thrifting gear, showing a reel to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests: \n* Ask Meta AI to search topics that matter to you, and get instant results more interactive than just text\n* Shop Marketplace for deals and hidden gems to nurture your hobbies\n* Personalize your Feed to see more of what you like, less of what you don’t\n* Dive into reels and videos for how-to’s or quick entertainment\n\nConnect with people and communities:\n* Join groups to learn tips from real people who’ve been there, done that\n* Turn on sharing to Instagram to save time\n* Privately message relatable posts that only your BFF will get or that Reels trend everyone’s talking about\n\nShare your world:\n* Use generative AI to delight friends with custom images, or just get help writing posts\n* Customize your profile to choose how you show up and who sees your posts\n* Effortlessly create reels from trending templates, or showcase your creativity with a full suite of editing tools\n* Capture moments on the fly with stories\n\nSome features may not be available in your country or region. \n\nTerms & Policies: https://www.facebook.com/policies_center\nPrivacy Policy: https://www.facebook.com/privacy\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Meta Safety Center: https://about.meta.com/actions/safety",
+      "subtitle": "Social Networking",
+      "tintColor": "",
+      "size": 378921984,
+      "version": "505.0.0",
+      "versionDate": "2025-03-18T07:33:00.000Z",
+      "downloadURL": "https://objects.onbasoft.com/uapps/U_Signer_4_8_2_51a590274b.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/4b/11/db4b11c9-c414-8d97-66a7-1b88d4fabb5b/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/50/33/715033bd-86cd-fcaa-d284-3ba9a66b4d1e/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/d1/22/aed12223-648a-568d-6dfa-fde55640faba/0130e841-7bad-4f8c-83c9-61ea0bac7d7b_3-iOS-5.5-Stories.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/2d/c7/cd2dc7ef-81f1-5f1c-891f-295be0065507/9b761f68-4cd1-4c66-b5f2-76de4f58005f_4-iOS-5.5-Groups.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/0b/3a/280b3aef-162d-9ba2-6884-ab1f667b5972/68c29824-a52c-4766-8aea-0a70c7a2f86f_5-iOS-5.5-Profile.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/44/20/4c442075-8a71-fe8e-4dc5-893cd47b062b/28ff37e9-d855-4e6e-a8b4-fb2d585bb9ca_6-iOS-5.5-Marketplace.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/01/44/ea01443c-356a-d59c-1ef0-0235ef33b6ba/691c88f4-f976-46bb-92e1-5f088e8aa47f_7-iOS-5.5-Share.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/4b/72/d54b72cd-1c0d-0c1d-38fb-31f54608a809/d49c0719-9500-4504-8a4c-3124b914bafa_8-iOS-5.5-Search_with_AI.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/93/2b/93932b74-3ddd-2c68-5644-602e278b8d0d/ee650e7b-1eaa-4de6-81a2-0b35dac16446_9-iOS-5.5-Write_with_AI.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/05/03/7a05034e-9d8a-9f34-313a-ac755c1e7c42/89fe27f2-ff0a-4a61-a502-73c2bd05da89_10-iOS-5.5-Notifications.png/392x696bb.png"
+      ]
+    },
+    {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Google",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/ab/e4/55abe4cd-255e-4f3f-46f1-531f9153d001/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Connecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs, playlists you created, and artists you subscribed to\n\nStay on top of the trend and discover new music:\n● Check out new releases\n● Discover music based genres (Hip Hop, Pop, Country, Dance & Electronic, Blues, Indie & Alternative, Jazz, Kpop, Latin, Rock, and more)\n● Discover music based mood (Chill, Feel Good, Energy Booster, Sleep, Focus, Romance, Workout, Commute, Party)\n● Explore top charts from all over the world\n\nEnhanced your listening experience with unique features:\n● Song lyrics so you can sing along to your favorites\n● Upload songs from your devices so you can enjoy them in one place with YouTube Music\n● Listen on your phone, desktop, smart speaker, smart TV, car, smart watch and within your favorite apps.\n● Compatible with Google Maps, Waze, Google Assistant, and more.\n\nUpgrade to Music Premium (available in select countries) to enjoy:\n● Listen to music ad-free\n● Play music in the background\n● Switch seamlessly between song audio and music videos, only with YouTube Music\n\n------------\nIf you subscribe via iTunes:\n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Accounts will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nYouTube paid service terms: https://www.youtube.com/t/terms_paidservice\nPrivacy policy: https://www.google.com/policies/privacy",
+      "subtitle": "Music",
+      "tintColor": "",
+      "size": 221534208,
+      "version": "8.11",
+      "versionDate": "2025-03-19T10:52:00.000Z",
+      "downloadURL": "ttps://github.com/apptesters-org/AppTesters_Repo/releases/download/11-03-2025/YoutubeMusic_8.10.2_YTMusicUltimate_%40thisismanpreets_apptesters.org.ipa\"",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/5d/cd/d15dcdbc-72a8-f310-8057-3e1c62ce2253/APP_IPHONE_55-0.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/35/23/7035239d-d254-b382-3c8a-66101c0b6c48/APP_IPHONE_55-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/92/67/3d9267b8-f802-fd83-e9d8-ff748df3559a/APP_IPHONE_55-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/2e/eb/172eebf2-c947-cac0-523e-fba8b5477245/APP_IPHONE_55-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/f9/68/1ef96803-31d8-eb33-c0f5-89ad0252e245/APP_IPHONE_55-4.png/392x696bb.png"
+      ]
+    },
+    {
+      "name": "Messenger",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "Meta Platforms, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/95/09/b6950973-87e3-969b-e21f-d652f7c55aa6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Messenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share your vibe beyond words, all in one app.\n\nCHAT AND CALL ANYONE, ANYWHERE \nFind and connect with your friends and family on Facebook and Messenger, no phone number needed.\n\nGET INSTANT ANSWERS FROM YOUR AI ASSISTANT*\nMeta AI is your assistant that can answer any questions, give you advice, help with homework, and more.\n\nSEND YOUR PHOTOS IN HIGH DEFINITION\nSend and receive clearer, crisper picture of your favorite moments with Messenger.\n\nCREATE SHARED ALBUMS\nFrom a recent summer vacation to your grandma’s 80th birthday, create albums of photos and videos to share, organize and reminisce over important moments in your group chats.\n\nEASILY ADD NEW CONNECTIONS WITH QR CODES\nConnect with people you meet in real life by scanning their Messenger QR code or sharing yours via a link.\n\nSHARE LARGE FILES DIRECTLY IN CHAT\nWhether it’s a Word, PDF, or Excel doc, you can send large files up to 100MB right inside of Messenger.\n\nEDIT AND UNSEND MESSAGES \nHit send too soon? You can edit the message up to 15 minutes after sending\n\nDISAPPEARING MESSAGES\nSome things aren’t meant to last forever. Choose how long your end-to-end encrypted chats stick around after they’ve been read.\n\nCOME TOGETHER WITH YOUR COMMUNITIES\nMeaningfully connect with people like you from your school, neighborhood, and interest groups.\n\nGET IN YOUR FAVORITE CREATORS’ INNER CIRCLE\nStay in the know with creators by joining their broadcast channels for authentic and casual content.\n\nUNLEASH YOUR IMAGINATION W/ META AI*\nTap into your go-to creative partner to create, edit, animate images and more.\n\nCAPTURE EVERYDAY MOMENTS ON STORIES\nHighlight moments of your day using photos and videos that disappear after 24 hours in Stories.\n\nDROP A NOTE WITH YOUR THOUGHTS\nStay connected with your friends by sharing quick updates that disappear after 24 hours.\n\nBRING YOUR VIBE TO YOUR CHATS\nSometimes words just don’t cut it. Tap into more ways to express yourself with animated stickers, GIFs, reactions and more.\n\nSET THE MOOD OF YOUR CHAT WITH THEMES\nCustomize your chat with a large and constantly evolving list of themes featuring popular artists, holidays, and more. \n\n*Meta AI is available in select languages and countries only, with more coming soon.",
+      "subtitle": "Social Networking",
+      "tintColor": "",
+      "size": 159280128,
+      "version": "499.0.0",
+      "versionDate": "2025-03-18T01:00:00.000Z",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Messenger_486.0.0_SNMessenger_1.0.1_%40thisismanpreets_apptesters.org.ipa",
+      "appPermissions": {},
+      "screenshotURLs": []
+    },
+    {
+      "name": "Locket Widget",
+      "bundleIdentifier": "com.locket.Locket",
+      "developerName": "Locket Labs, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/be/93/edbe93f0-59b1-8789-578c-7dde7b1e8736/app_icon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Locket is a widget that shows live photos from your best friends, right to your Home Screen. You and your best friends will see new pictures from each other every time you unlock your phone. It’s a little glimpse of what everyone’s up to throughout the day.\n \nHOW IT WORKS\n1. Add the Locket widget to your Home Screen\n2. When a friend sends you a photo, it instantly appears on your Locket widget!\n3. To share a pic back, tap into the widget, take a pic with the camera, and then hit send! It appears right on your friends’ Home Screens\n \nFOR YOUR CLOSE FRIENDS\n• To keep things friendly, you can only have 20 friends on the app.\n• On Locket, there’s no worrying about follower count, just add your best friends and family and live in the moment.\n• With Locket, you’re able to be real and share photos to the people that matter.\n \nREACT TO FRIENDS' PHOTOS\n• Send a Locket reaction to your friends to let them know you saw their image.\n• They’ll get a notification and you’ll love watching the emojis rain down on your photo.\n• We don’t count or track the reactions, so you can be real and authentic without worrying about likes and filters like other platforms.\n \nBUILD A HISTORY OF YOUR LOCKETS\n• As you and friends snap Lockets, you’ll build up a history of all images sent.\n• Share them out as photos or use our video recap feature to stitch together the memories of you and your friends, capturing those “love it” moments.\n• Locket will also make you a recap video at the end of every month with all of the photos you've shared.\n \nADD LOCKETS FOR YOUR BESTIES AND CRUSHES\n• Decorate your home screen with more photos and images dedicated to your crush or your bestie\n• Add the “Crush” or “Best Friend” picture widget, and see photos only from that person. Plus, you can send images just to that person too!\n \nHere’s what our users say:\n \n“I love this app because I get to share cute pictures to my friends” - HI\n“AMAZING SO WORTH IT” - rikkibear29282902\n“Best app made this year” - johanjodel_\n \nPlus, users love our camera (so you’ll love the photos!) - @sonnielove3 on Twitter even said, “It’s sum about that locket camera”\n \nDownload the free app! We’re keeping Locket free so you can send photos to the people that matter (friends, family, bestie, etc.). With Locket, your phone will feel like it’s bringing you closer to your best friends.\n \nPlease write to us at team@locketcamera.com. Thanks for having Locket on your Home Screen!",
+      "subtitle": "Social Networking",
+      "tintColor": "",
+      "size": 206529536,
+      "version": "1.116.1",
+      "versionDate": "2025-03-20T19:05:00.000Z",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/Locket_1.107.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d0/d7/da/d0d7daa3-0442-c1d3-553d-6b2b93ced4ec/e04eef77-f55f-413b-988f-5cd68761cb44_screenshot1old.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/04/d3/8a/04d38afc-30c6-ce89-7256-550a4ea4c4a3/26b31fa8-4ae9-4413-b4bc-08bf1eded094_screenshot2old-real.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/40/e6/3140e643-e3dd-5ae5-2c7d-8d155e05382b/7fec781f-09e3-401d-a6d7-3d2e4a016724_screenshot3old-real.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/a6/1b/d4a61be3-baa5-15b0-6a6b-b20fb9bc6766/c8bf0e08-44c4-4989-8fac-edff0966393e_screenshot4old.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0a/24/91/0a249125-4770-a014-00d1-b41d237475c5/49b101cc-e75b-4ed3-b5cf-0a7581580d4e_screenshot5old.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/0d/00/c60d009a-6fe2-5e3b-1bec-5de7159630ad/56d50f54-053c-4631-9eb6-c19afd25e944_screenshot6old.jpg/392x696bb.jpg"
+      ]
+    },
+    {
+      "name": "Zalo",
+      "bundleIdentifier": "vn.com.vng.zingalo",
+      "developerName": "Zalo Group",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/c5/55/1dc555d2-2c9c-910c-5484-1c3a27fb470f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "(Vietnamese below) Zalo is the new market-leading messaging app with amazing features. \n\n* Rich feature set:\n=> Message your friend in a snap. Receive notifications the moment they reply back.\n=> Express your emotion with fun and cheerful emoticons and stickers.\n=> Send voice messages with fantastic quality and no outside noises\n=> Find and get acquainted with friends nearby.\n=> Send group messages easily with no effort.\n=> Discover and play games with your friends.\n=> Share your location.\n=> High level of privacy.\n\n\nDownload Zalo and chat with your friends!\n\nTerms of Use: https://zalo.vn/dieukhoan/\n\nSupport Information:\n- Online: https://zalo.me/zalohotroiOS\n- Email: feedback@zalo.me\n- Website: https://zalo.me\n\n---\n\nZalo là ứng dụng nhắn tin kiểu mới và kết nối cộng đồng hàng đầu cho người dùng di động Việt.\n* Zalo có điều gì đặc biệt?\n=> Tốc độ gửi tin nhắn cực nhanh, bạn luôn nhận được thông báo khi có tin nhắn mới kể cả khi không mở ứng dụng.\n=> Thể hiện cảm xúc với emoticon và hình động vui nhộn.\n=> Nhắn tin lời nói với chất lượng âm thanh nén rõ ràng, không tạp âm, không méo tiếng.\n=> Kết nối bạn với những người thú vị xung quanh nơi bạn ở.\n* Chat với bạn bè, gửi tin nhắn nhóm trong danh bạ thật dễ dàng (chat, sms, voice, photo, games).\n* Gặp gỡ với những người bạn thú vị trên Phòng Trò Chuyện hoặc Xung quanh nơi bạn ở.\n* Chia sẻ những khoảnh khắc ngay tức thì với gia đình và bạn bè.\n* Chia sẻ vị trí.\n* An toàn và riêng tư.\n\nHãy kích hoạt Zalo và chat ngay với bạn bè trong danh bạ!\n\nThỏa thuận dịch vụ: https://zalo.vn/dieukhoan/\n\nHỗ trợ người dùng:\n- Trực tuyến: https://zalo.me/zalohotroiOS\n- Email: feedback@zalo.me\n- Website: https://zalo.me",
+      "subtitle": "Social Networking",
+      "tintColor": "",
+      "size": 290277376,
+      "version": "25.03.01",
+      "versionDate": "2025-03-17T17:55:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/Zalo_IPA/Zalo_241102.1_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/b6/db/d2b6db6a-f5ec-9d10-34ca-f825f46ae118/c87ec889-3e3a-445f-8769-f0b529fe2a41_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/8b/c0/f98bc0e1-417b-7f10-1ff0-b91a162ca885/a75aee13-8e50-4537-9a63-9a9de2d4da97_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/85/e3/1f85e363-213c-43d8-c5ed-51e71e9f2f71/f036d530-051d-444d-bfab-b68bb0fed5b8_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/b7/f446b7fb-f8d1-3d26-6e65-1760bd60a3b4/d5856f8b-1b5e-45a8-8e24-89b5b74272b7_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/02/f8/5302f874-b6b5-e35c-70cf-46aae0fe7191/179fe7b0-794f-40e7-81fe-80651f1b10b8_5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/15/19/4a151984-ec14-ce40-e44e-9892b9a5550a/5cec8e59-71a3-4626-b56f-d447e1615f46_6.jpg/392x696bb.jpg"
+      ]
+    },
+    {
+      "name": "Notes For TikTok",
+      "bundleIdentifier": "com.rm-applications.notes",
+      "developerName": "R.M. APLICTIONS LTD",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/0b/e0/7a0be056-804e-4f58-994a-96ccf5e83163/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Create Viral-Worthy Carousel Content with Ease\n\nUnleash your creativity and connect with your audience like never before! Whether you’re a content creator, influencer, or simply someone with a story to share, our tool empowers you to design and share captivating carousel photo-text content that’s engineered to stand out and go viral.\n\nExpress Your Unique Voice\n\nShare your thoughts, insights, and experiences in a format that’s visually engaging and easy to consume. From your daily reflections and travel adventures to educational tips and motivational stories, every piece of content you create will reflect your personal style and voice.\n\nDesigned for Maximum Engagement\n\nCarousels are one of the most effective ways to grab attention on social media. Our tool ensures your content is optimized for likes, shares, and saves by combining stunning visuals with compelling text layouts that encourage viewers to swipe through every slide.\n\nA Touch of Virality for Every Post\n\nStand out in the crowded world of social media! Our platform uses proven design techniques to give your carousels that “it” factor, making them more likely to resonate with your audience and get shared far and wide.\n\nPerfect for Any Content Type\n\nDaily insights: Share your thoughts, reflections, and advice in a way that feels personal and engaging. Travel tips: Inspire others with your recommendations, itineraries, and must-see spots from around the globe. How-to guides: Break down complex ideas into simple, digestible steps with a swipe-worthy presentation. Storytelling: Share your journey, experiences, or lessons learned with a creative and emotional touch.\n\nUser-Friendly and Fast\n\nNo design experience? No problem! Our tool is intuitive and beginner-friendly, allowing you to create professional-quality carousels in just minutes. Simply upload your photos, add text, customize the design, and share directly to your favorite platforms.\n\nBoost Your Social Media Game Today\n\nTake your content strategy to the next level. Whether you’re looking to grow your following, increase engagement, or simply share your message with the world, our tool makes it easier than ever to create posts that leave a lasting impression.\n\nPrivacy Policy:\nhttps://rm-applications.com/privacy-policy\n\nTerms of Use:\nhttps://rm-applications.com/terms-of-use\n\nSupport:\nhttps://rm-applications.com/",
+      "subtitle": "Photo & Video",
+      "tintColor": "",
+      "size": 82178048,
+      "version": "1.0.5",
+      "versionDate": "2025-01-27T01:11:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/TiktokNotes_IPA/TikTok.Notes_2.6.0_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/89/4d/21894def-4abe-e9fe-5dad-fcdba8242325/27b98fc7-6bbe-4dab-a4f0-70e88ec125d3_9.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/cb/f0/14cbf053-4a0b-e192-f4a9-c01d85f205e5/dac18902-d456-4515-ac15-4bf5578faf12_11.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/83/a2/cc83a2e5-1b74-ee86-581e-502a8c8cc0f3/764b36d5-e52a-4435-b6ed-4e03952c11ac_12.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/28/47/ff28471c-598f-18d5-2e8a-1b49ba639445/a7f5393b-2898-4323-bb5c-40477424be11_10.jpg/392x696bb.jpg"
+      ]
+    },
+    {
+      "name": "Tiki Solitaire TriPeaks",
+      "bundleIdentifier": "com.gsn.ios.tripeaks2",
+      "developerName": "Scopely, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/77/3e/60773e67-8e72-d58a-e4e8-c4e1cbe5ec6d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Tiki Solitaire TriPeaks: the classic Solitaire TriPeaks card game! With over 3000 levels to wander and win free coins! Train your brain playing alongside Tiki in this free solitaire game!\n\nCards games. Play the classic solitaire puzzle game alone or play with friends when you collaborate through our Friend Center Challenges and win free coins! \n\nSolitaire. Relax and let time fly by playing classic tri peaks free Solitaire games. If boredom was as life-threatening as children proclaim, Tiki tri peaks solitaire would have saved thousands – possibly millions! – of lives. No joke.\n\nTriPeaks. Train your brain and play with friends to win free coins in one of the best TriPeaks card games there is!\n\nTiki Solitaire TriPeaks. No doubt about it — *the* most fun free solitaire tri peaks classic card game out there. It’s a little bit Golf, it’s a little bit Pyramid, and it’s a whole lot of depth. It’s not just casual card games — there is so much to explore — TriPeaks levels, lands and worlds to wander.\n\nTop features:\n\n1. Challenging hazards to train your brain and help you get smarter.\n2. Relax with thousands of levels across multiple worlds.\n3. Wild Cards and boosters to help you harvest your wins.\n4. Join a Tiki solitaire tri peaks club to team up with your friends — or compete against them.\n5. Friend Center, where you can send and receive free coins from friends.\n\nPlay with friends and compete together to get free coins or play alone and have our crazy characters join you along the way. Not just a standard free Tiki Solitaire triPeaks card game, when you can play with Tiki, your encouraging companion, and Poi, Tiki’s cute puppy! There are other characters too like Pele, the Volcano Goddess. Don’t mess with her. And Marina the mermaid, she’s as sweet as sweet can be. There are penguins, bunnies, monkeys, a parrot and a curmudgeonly old Pirate named Captain Karma. Ahoy!\n\nTravel through the levels to see the most stunning visuals as you play Tiki TriPeaks solitaire. This game offers over 3000 levels to play through as you complete quests and take part in events. This isn’t just any classic card game!\n\nThere you have it. If you like classic card games like mahjong, pyramid, klondike solitaire, and puzzle games, you’ll have a grand time playing Tiki Solitaire Tri Peaks! Download this one free Solitaire TriPeaks game and play today, and you won’t be searching for solitaire card games free any longer.\n\nPrivacy Policy:\nhttps://scopely.com/privacyQ42022/\n\nTerms of Service:\nhttps://scopely.com/tosq42022/",
+      "subtitle": "Games",
+      "tintColor": "",
+      "size": 341124096,
+      "version": "14.5.0",
+      "versionDate": "2025-03-19T11:24:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/Tiki_IPA/Tiki_4.153.1_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/79/73/89797300-9745-3d73-0efb-e7347b6dc352/b4434c2d-ffaa-4285-b4dc-90c2b5c3c651_STP-24288_ASO_Screenshots-IOS_Resize_scr1_v1_2208x1242.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/bb/00/c2bb009b-cd54-142b-1486-43995104a844/319c5dee-5bff-4c61-a403-5315570362e7_STP-24288_ASO_Screenshots-IOS_Resize_scr2_v1_2208x1242.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/27/d2/ee/27d2eef1-3506-7623-d77b-b5a749a448ef/523bc174-7922-4ebc-80f1-e85d30ece5ed_STP-24288_ASO_Screenshots-IOS_Resize_scr3_v1_2208x1242.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/cb/67/67cb67ec-ea54-019d-0a07-9c183df4a0ba/d761220a-6c2c-483c-b995-b4b65845f772_STP_iPhone6_SS1_Screenshot_PlaySolitaire_2208x1242_EN.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/22/05/c6220568-0637-a99f-1c49-b7e051554576/39ce88ac-7887-4e5c-b31c-e08883ad543f_STP_iPhone6_SS5_Screenshot_PlaywithFriends_2208x1242_EN.jpg/406x228bb.jpg"
+      ]
+    },
+    {
+      "name": "Threads",
+      "bundleIdentifier": "com.burbn.barcelona",
+      "developerName": "Instagram, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ee/98/05ee98e5-9ffe-c393-1666-398cc5e42440/Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Say more with Threads — Instagram’s text-based conversation app.\n\nThreads is where communities come together to discuss everything from the topics you care about today to what’ll be trending tomorrow. Whatever it is you’re interested in, you can follow and connect directly with your favorite creators and others who love the same things — or build a loyal following of your own to share your ideas, opinions and creativity with the world!\n\nA few things you can do on Threads…\n\n■ Access your Instagram followers\nYour Instagram username and verification badge are reserved for you. Automatically follow the same accounts you follow on Instagram in a few taps, and discover new accounts too.\n\n■ Share your point of view\nSpin up a new thread to express what's on your mind. This is your space to be yourself, and you control who can reply.\n\n■ Connect with friends and your favorite creators\nJump to the replies to get in on the action and react to commentary, humor and insight from the creators you know and love. Find your community and connect with people who care about whatever it is you’re interested in.\n\n■ Control the conversation\nCustomize your settings and use controls to manage who can see your content, reply to your threads, or mention you. Accounts you’ve blocked will carry over from Instagram, and we’re enforcing the same Community Guidelines to help ensure everyone interacts safely and authentically. \n\n■ Find ideas and inspiration\nFrom TV recommendations to career advice, get answers to your questions or learn something new from crowd-sourced conversations, thought leaders and industry experts.\n\n■ Never miss a moment\nStay on top of the latest trends and live events. Whether it’s about new music, movie premieres, sports, games, TV shows, fashion, or the latest product releases, find discussions and receive notifications any time your favorite profiles start a new thread.\n\n■ Leap into the fediverse\nThreads is part of the fediverse, a global, open, social network of independent servers operated by third parties around the world. Servers share information with each other to enable people to connect and discover new things across the fediverse.\n\n\nMeta Terms: https://www.facebook.com/terms.php\nMeta Privacy Policy: https://privacycenter.instagram.com/policy\nThreads Supplemental Privacy Policy: https://help.instagram.com/515230437301944\nThreads Supplemental Terms: https://help.instagram.com/769983657850450\nInstagram Community Guidelines: https://help.instagram.com/477434105621119\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Meta Safety Center: https://about.meta.com/actions/safety",
+      "subtitle": "Social Networking",
+      "tintColor": "",
+      "size": 91514880,
+      "version": "372.1",
+      "versionDate": "2025-03-21T06:00:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/Threads_IPA/Threads_350.0.0_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": []
+    },
+    {
+      "name": "Snapchat",
+      "bundleIdentifier": "com.toyopagroup.picaboo",
+      "developerName": "Snap, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/12/e3/b212e34a-4237-7083-d9c2-572ae7115e24/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Snapchat is a fast and fun way to share the moment with your friends and family\n\nSNAP \n• Snapchat opens right to the Camera — just tap to take a photo, or press and hold for video.\n• Express yourself with Lenses, Filters, Bitmoji and more! \n• Try out new Lenses daily created by the Snapchat community!\n\nCHAT \n• Stay in touch with friends through live messaging, or share your day with Group Stories.\n• Video Chat with up to 16 friends at once — you can even use Lenses and Filters when chatting!\n• Express yourself with Friendmojis — exclusive Bitmoji made just for you and a friend.\n\nSTORIES\n• Watch friends' Stories to see their day unfold.\n• See Stories from the Snapchat community that are based on your interests.\n• Discover breaking news and exclusive Original Shows.\n\nSPOTLIGHT\n• Spotlight showcases the best of Snapchat!\n• Submit your own Snaps or sit back, relax, and watch.\n• Pick your favorites and share them with friends.\n\nMAP \n• Share your location with your best friends or go off the grid with Ghost Mode.\n• See what your friends are up to on your most personal map when they share their location with you. \n• Explore live Stories from the community nearby or across the world!\n\nMEMORIES \n• Save unlimited photos and videos of all your favorite moments.\n• Edit and send old moments to friends or save them to your Camera Roll.\n• Create Stories from your favorite Memories to share with friends and family.\n\nFRIENDSHIP PROFILE \n• Every friendship has its own special profile to see the moments you’ve saved together.\n• Discover new things you have in common with Charms — see how long you’ve been friends, your astrological compatibility, your Bitmoji fashion sense, and more!\n• Friendship Profiles are just between you and a friend, so you can bond over what makes your friendship special.\n\nHappy Snapping!\n\n• • •\n\nPlease note: Snapchatters can always capture or save your messages by taking a screenshot, using a camera, or otherwise. Be mindful of what you Snap!\n\nFor a full description of our privacy practices, please see our Privacy Center.",
+      "subtitle": "Photo & Video",
+      "tintColor": "",
+      "size": 311218176,
+      "version": "13.33.0.51",
+      "versionDate": "2025-03-20T04:00:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/Snapchat_IPA/Snapchat_13.9.0_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/39/d4/0e39d41f-f318-7c2e-1a35-2d02cacf3dff/762b1643-82ac-445a-8500-c4c4f86102b1_Screenshot1_Snap_USA_Apple_1242x2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/13/21/9d1321c8-1d82-c098-90a5-6eacbd4ab2af/370a4e0e-0bcb-42b9-a20c-7aea1c32c1b4_Screenshot2_Chat_USA_Apple_1242x2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/a3/5c/cba35c8b-3a82-0be2-e9d1-2959e9c0eda6/1d1c3b41-98d2-4d02-aaa9-7c958a66f5ad_Screenshot3_Lenses_USA_Apple_1242x2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/fe/42/0dfe42a2-5fff-8b57-df80-b4cc82f74ea2/8e07cbc2-17c5-4f43-98ea-ad105904f7c2_Screenshot4_Stories_USA_Apple_1242x2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/84/37/d68437af-6a61-6a23-005a-40cee0240b52/611291f2-5d78-402c-a2fd-05feb9d2a5d2_Screenshot5_Spotlight_USA_Apple_1242x2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/e8/83/38e88354-4d0b-9a8b-f24f-e9af90ddef83/ff702b6f-66fb-48a6-a70e-a3691eb955d9_Screenshot9_VideoCall_USA_Apple_1242x2208_en_US__U00281_U0029.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/3b/86/a73b8619-acfc-fda3-acc1-e50512f6f3a8/94e6028c-27fb-45b1-9738-cd9740855335_Screenshot7_Map_USA_Apple_1242x2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/1e/a7/631ea7c4-f791-c64e-5eca-963ea6aef59c/b161ca1d-96c3-49a7-a22e-10beaebe8622_Screenshot8_Memories_USA_Apple_1242x2208.jpg/392x696bb.jpg"
+      ]
+    },
+    {
+      "name": "Prequel: Photo & Video Editor",
+      "bundleIdentifier": "com.aiarlabs.prequel",
+      "developerName": "Prequel Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/31/27/033127e6-a69d-58c2-1ac0-31f659d71ad7/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Create aesthetic edits with Prequel and such iconic effects as DISCO, DIAMOND, BLING, TEAL, MIAMI, PRISM, VHS, D3D. There’s Prequel for every story – start telling it now.\n\nFREE FEATURES\n\n• 800+ EFFECTS and FILTERS to match any style.\n• TEMPLATES: create high-quality aesthetic videos in one tap.\n• D3D: create amazing 3D moving pictures without any hustle. Add any trendy effect you want.\n• TEXT: 30+ custom fonts. Say what you gotta say with style.\n• MUSIC: add any tracks to your videos for immaculate vibes.\n• STICKERS: add gifs, emojis, and stickers to your photos. Enjoy complete freedom of self expression.\n• ADJUSTS: various tools to tune your content and get the exact result you need.\n• INTRO: meticulously designed starting effects for your photos and videos.\n\nPREQUEL GOLD SUBSCRIPTION\n\nGet unlimited full access to all Prequel effects and filters. Enjoy an advanced editing toolkit with wide array of adjustments. No boundaries for your creativity.\n\nPrequel Gold is available as a subscription. Prices may vary depending on your country of residence and may be converted to your local currency.\n\nPayment for your Prequel Gold subscription will be charged to your iTunes Account after purchase confirmation. Your subscription will automatically renew and your account will be charged for renewal within 24 hours prior to the end of the current period. You can turn off the auto-renewal at any time in your iTunes account settings but refunds will not be provided for any unused portion of a subscription period. If you purchase your subscription during the free trial period, any unused portion of the free trial period will be forfeited.\n\nAbout subscription: https://prequel.app/prequel-subscription\n\nRead our Terms of Use here: https://prequel.app/term-of-use\n\nRead our Privacy Policy here: https://prequel.app/privacy-policy",
+      "subtitle": "Photo & Video",
+      "tintColor": "",
+      "size": 296684544,
+      "version": "2.68.0",
+      "versionDate": "2025-03-17T02:07:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/Prequel_IPA/Prequel.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/ba/de/4abadec5-0ba1-cd2f-25b6-f108b2b229e5/8b8e0037-5b1f-4daa-ab82-be7a05e83522_PRQL_Metaphors_screens_5.5_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/56/e6/9d56e68d-c2b1-1a74-6f9b-7bfe9da3d02a/2b7731a2-7008-41d9-904f-0c2b965dd901_PRQL_Metaphors_screens_5.5_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/bd/f6/f4bdf674-da2d-772d-bdfe-70a8ab64a940/ed56100e-ac75-43ec-950b-d79dd689f281_PRQL_Metaphors_screens_5.5_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/ab/16/7aab1638-77b2-d509-31b9-b182abc95822/6237f2cc-aa05-4ac3-a709-e2b13675f79b_PRQL_Metaphors_screens_5.5_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/b7/6b/2ab76b20-b015-599a-18f0-c6a50fc07be5/19ba21f6-2a7b-4d20-9811-8cb369ba17dd_PRQL_Metaphors_screens_5.5_5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/94/cc/ab94cced-6efa-f306-c0fd-9fbfbff03f65/c2f14e65-a8da-4dbf-a2e3-3cba65c10e71_PRQL_Metaphors_screens_5.5_6.jpg/392x696bb.jpg"
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "bundleIdentifier": "pinterest",
+      "developerName": "Pinterest",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/6c/15/bb6c15d0-ea8d-8c20-5505-7d7ef7da398c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Pinterest is a place of endless possibilities. You can:\n- Discover everyday inspiration\n- Shop styles you love\n- Try and learn something new\n\nCreate boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love? \n\nIt's Possible.",
+      "subtitle": "Lifestyle",
+      "tintColor": "",
+      "size": 244386816,
+      "version": "13.10.1",
+      "versionDate": "2025-03-20T06:54:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/Pinterest_IPA/Pinterest_12.35_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/36/f9/8736f979-c601-f9ff-54be-376c8320a9e0/fb7ce02a-e14d-4c33-be3b-fb422f1db141_240318_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Fashion_InclusiveAI_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/bd/f3/b5bdf3f7-2a10-ffb3-0605-04ebab9d3477/329e2f2f-5642-41a2-a1be-91d819840dbb_240318_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Multivertical_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/9e/af/d69eaf1e-7f3e-d147-3d4d-503336fdcbe4/0c932e2e-89e3-48ac-9f55-9ea1747b023c_240318_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Multivertical_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/d1/ad/42d1ad9c-986c-7572-f058-f5f3303b3c7f/2349bcf5-f45d-47a5-9ccf-f54e3539011f_240318_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Multivertical_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/73/ff/9873ffee-b4b5-1065-a7bc-b8a13dca457d/e873907f-eaf1-45fd-bb4c-f439d2cb957f_240318_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Multivertical_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/b5/ac/a0b5ac02-f5b9-3982-6c62-7b501fb95041/0a6df909-4380-4430-9be7-17bda30eb6bd_240318_H1-App-Store-Update_EN_iOSApp_Image-Designed_1242x2208_iPhone-5.5_Multivertical_6.png/392x696bb.png"
+      ]
+    },
+    {
+      "name": "Piktina: đồ si đẹp, độc, hời",
+      "bundleIdentifier": "com.piktina.Piktina",
+      "developerName": "Piktina",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/b5/12/32b51208-e28d-8e31-5e3d-488c28d3620f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "The sustainable fashion marketplace designed by you, for you. Buy, sell, and discover your unique personal style from a community of diverse sellers.\n\nWere you a victim of hyper-consumerism? Have you ever found yourself accidentally going overboard and spending a fortune on fast-fashion items, only for them to go out of style in a week’s time and become forgotten in the back of your closet? \nIf that sounds like you - there are many other ways to work towards sustainable spending: invest in quality pieces, reconsider consuming new fast-fashion items, or shop secondhand. By doing so, you can:\n- Save up to 50% average monthly spending on clothes\n- Profit off a passive income stream by reselling preloved items from your closet\n- Conserve up to 10,000 liters of water and reduce CO2 emissions for each secondhand item you purchase\n\nWelcome to the PIKTINA community, the one-stop-shop online destination for fashion lovers. Here, you can discover unique items that don’t break the bank, and contribute to the development of a more sustainable and circular economy. Whether you’re selling or purchasing, the application guarantees an effortless experience. All you have to do is browse the app from the comfort of your own home - leave the shipping, billing, and order management to PIKTINA.\n\nDownload PIKTINA and:\n- Buy-more-get-more combo of vouchers with value up to VND 600k\n- List, browse, purchase one-of-a-kind fashion items at the most competitive price\n- Stay up to date on trends with KOLs or our verified shops\n- Enjoy our built-in payment and shipping solutions\n- Buy and sell in seconds with our quality listed products and detailed descriptions\n- Connect with thousands of other users from our community\n- Newly introduced Give-away feature: Clean your closet and give unused items a second life to those who need more. Reduce fashion waste for our Mother Earth\n\nJoin the PIKTINA community:\nInstagram: https://www.instagram.com/piktinavietnam/ \nFacebook: https://www.facebook.com/piktinavietnam/ \nYoutube: https://www.youtube.com/@piktina1539 \nBlog: https://piktina.com/blog/",
+      "subtitle": "Shopping",
+      "tintColor": "",
+      "size": 101884928,
+      "version": "v1.4.8",
+      "versionDate": "2024-09-17T00:10:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/Piktina_IPA/Piktina_1.4.8_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d0/fd/2c/d0fd2cb9-a9db-ed85-7878-dfd90f2f3a83/54dec6b5-237a-4b64-b232-45d19d7753a1_5.5inch-en-01.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/dd/2d/7d/dd2d7dfd-03b1-e108-8138-80813ad520ba/4d9ae149-567a-4b3d-8a29-614325a562b1_5.5inch-en-02.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/74/a9/bd/74a9bd8b-afc9-cd76-334e-e7cc0af7033c/0c88c6e1-8f8c-4373-871c-5365bbffaaa8_5.5inch-en-03.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/cf/e7/66/cfe766a7-7fa7-22fa-3e84-294664936efc/5c4d80c3-1360-44fd-8b7b-52e6bb967345_5.5inch-en-04.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3d/d2/18/3dd218ad-c2d4-97d3-b8c8-aadda3d685b2/63f3cce3-a3ff-4eef-8511-8c11e1d64787_5.5inch-en-05.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2a/c5/55/2ac555f5-2aaa-1fe2-2138-fdf558adb323/f527fbb3-c87b-44a6-b358-d597b402b915_5.5inch-en-06.jpg/392x696bb.jpg"
+      ]
+    },
+    {
+      "name": "Meta Business Suite",
+      "bundleIdentifier": "com.facebook.PageAdminApp",
+      "developerName": "Meta Platforms, Inc.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/71/9f/47719fcc-83e6-0048-bd8b-a920b55774fd/Icon-Production-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Grow your business and connect with more people with Meta Business Suite.\n\nUse this app to:\n• Create, schedule, and manage posts and stories across your Facebook Page and Instagram account\n• Connect with more customers by responding to all of your messages and comments in one place—you can even automate responses to save time\n• View insights about how people are interacting with your posts, stories and ads so you can create content that resonates with them\n• View your notifications and to-do list so you can stay on top of what matters most",
+      "subtitle": "Business",
+      "tintColor": "",
+      "size": 245317632,
+      "version": "433.0",
+      "versionDate": "2025-03-19T10:00:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/MetaBusinessSuite_IPA/Business.Suite_411.1_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/4f/cd/ab4fcdf3-fdee-5db6-6b6a-b3f6f3a48fd9/8361aa16-8a11-4fbb-8204-7e3ac85aa2a0_AppStore_MBS-Screenshot-1_5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/00/f7/1f/00f71fcf-c8e2-d827-e192-caf54f39913c/b6b292ad-cefd-4408-9d1e-6264b6cabab1_AppStore_MBS-Screenshot-2_5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/39/16/1a391694-6993-3402-618c-179c9ad88913/652e9351-e097-45cb-83c2-62400c54f73d_AppStore_MBS-Screenshot-3_5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/ba/e7/aebae775-c821-06be-d89e-a9ba3323cf21/8e62c3a6-5f32-4bae-a472-e693b316a575_AppStore_MBS-Screenshot-4_5.5_.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/04/6e/b3046e4e-7a3f-0082-c60f-459ebc3371cb/52f5b2ec-bd69-49b8-a2ff-bca794c27349_AppStore_MBS-Screenshot-5_5.5.png/392x696bb.png"
+      ]
+    },
+    {
+      "name": "Lazada Birthday Blowout",
+      "bundleIdentifier": "com.LazadaSEA.Lazada",
+      "developerName": "Lazada Group GmbH",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/0d/c4/830dc4f4-50b0-860c-dbff-8e47a1acecb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Don't miss out — you're invited to the party!\n\nLazada's Birthday Blowout Sale starts March 24 at 8 PM.\n\nGet exclusive discounts up to 90% off on Lazada's best offerings such as LazBeauty and LazMall, extra discounts with LazCoins and LazFlash, and enjoy FREE shipping!\n\nStart shopping now and save more with special birthday deals and offers!\n\nFeatured updates:\n1. Free Shipping\n2. Vouchers for First Orders\n3. Money-saving shopping in CHOICE\n4. LazFlash Deals\n\nWhat are you waiting for? Download the Lazada App and start shopping for the best quality deals at amazing prices! Grab your essential and favorite items with exclusive deals to make the most out of your purchase! \n\nAUTHENTICITY GUARANTEED\nLazMall – Lazada's flagship offering for branded products ensure genuine, authentic brands – sold by brands on Lazada through Brand Stores. 100% Authentic – Directly from brands to you. Enjoy 10,000+ global brands at your fingertips like Nike, Adidas, Maybelline, L'Oréal, and more. \n\nFIRST ORDER BENEFITS\nGet exclusive discount vouchers for your first purchase*. Get coins when you check in daily, and collect vouchers from Lazada and sellers every time you use the Lazada app! *T&Cs Apply\n\nSECURE PAYMENT\nPay securely through multiple payment options; \n1. Cash on Delivery \n2. Lazada Installments \n3. LazWallet \n4. Secure Bank Transactions \n\nAPP HIGHLIGHTS \n1. App-Exclusive Notifications for Daily Offers, Deals, & Discounts \n2. Personalized Recommendations of Products, Categories, & Brands \n3. Full-scale Search Filters by Category, Brand, Price, Rating, Color, and More \n4. Customer Ratings & Reviews \n5. Q&A for Direct Customer – Seller Interaction \n6. Order Tracking \n7. Fast Shipping \n8. Log in via Facebook and Google \n9. Sharing via Facebook, X (Twitter), Whatsapp, and more \n\nPERSONALIZED RECOMMENDATIONS \nShopping is made easy for you. Lazada uses superior products recommendation algorithm to ensure personalized products, deals, and vouchers created just for YOU.\n\nBUYER GUARANTEE\nCheck out the product reviews, see the seller ratings, and CHAT WITH SELLERS directly! Dissatisfied? Simply return for a full refund via the simple returns policies.\n\nLAZFLASH & VOUCHERS\nShop more and save more with exclusive app-only offers, promo codes, bank vouchers, and discounts at the best prices, updated every day. \n\nBEST CATEGORIES\nEnjoy effortless online shopping and home delivery coming from a huge variety of products in electronics, sports, beauty, digital, groceries, toys, cars & motorcycles, shoes, fragrances, health, men's & women's fashion, and much more.\n\n***Most Trusted Online Shopping Destination in Southeast Asia!***\nIndonesia \nMarketeers 2017 – Best WOW Brand for E-Commerce \n\nThailand \n2016-2017 Marketeer No.1 Brand Thailand – Online Shopping \n\nSingapore \nAsia One People's Choice Awards 2015: Top 3 E-Retailers \n\nPhilippines \nReaders Digest Most Trusted Brand Award 2014 – Gold Standard \n\nCountries supported\nIndonesia, Malaysia, Philippines, Singapore, Thailand, and Vietnam \n\n*DISCLAIMER* \nRecently, we've been notified of several cases where our app is promoted fraudulently by some third-party advertisers, usually in the form of site redirection, fake vouchers, and games. These types of ads are being promoted without our consent and we strictly condemn this type of behavior. If you encounter any of these issues, please help us and copy the page URL found and report it to help@lazada.com with subject AAV so that we can put an end to this.",
+      "subtitle": "Shopping",
+      "tintColor": "",
+      "size": 136229888,
+      "version": "7.71.0",
+      "versionDate": "2025-03-10T19:40:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/Lazada_IPA/Lazada_907.61.0_UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": []
+    },
+    {
+      "name": "LINE",
+      "bundleIdentifier": "jp.naver.line",
+      "developerName": "LINE Corporation",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/46/a2/9746a20a-9b1e-80d0-3e40-ee7d60aa16bb/basic_default-0-0-1x_U007epad-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "LINE is transforming the way people communicate, closing the distance between family, friends, and loved ones—for free. With voice and video calls, messages, and a limitless variety of exciting stickers, you’ll be able to express yourself in ways that you never thought possible. Available all around the world on mobile, desktop, and Apple Watch, the LINE platform continues to grow, always offering new services and features that make your life more fun and convenient.\n\n◆ Messages, Voice calls, Video calls.\nEnjoy voice and video calls and exchanging messages with your LINE friends.\n\n◆ LINE stickers, emojis, and themes\nExpress yourself just the way you want with stickers and emojis. Also, find your favorite themes to customize your LINE app.\n\n◆ Home\nGives you easy access to your friends list, birthdays, the sticker shop and various services and contents offered by LINE.\n\n◆ LINE VOOM\nAvailable in Japan, Taiwan, and Thailand, you can explore even more content that you may like in the \"For you\" tab.\n\n◆ Seamless connection on mobile, Apple Watch, and desktop\n\nChat anytime and anywhere. Whether you’re on the go or working at the office or remotely, use LINE via your iPhone, Apple Watch, or desktop.\n\n◆ Store your personal information with Keep Memo\n\nMy own chatroom to temporarily store messages, photos, and videos.\n\n◆ Messages protected with Letter Sealing\n\nLetter Sealing encrypts your messages, call history and location information. Always be assured of your privacy when using LINE.\n\n*We recommend using a data plan or connecting to Wi-Fi as you may incur data usage fees otherwise. \n\n*Please check the recommended specifications from LINE settings > “Help center” > “LINE usage environment/Settings” > \"System requirements for LINE” when installing/updating the LINE app. In addition, if you're using an old version of iOS, we recommend updating it to the latest version.\n\n▼Click here to see how to update your iOS version.\nhttps://support.apple.com/en-us/HT204204\n\n**********\nIf your network speed is too slow or you don't have enough device storage, LINE may not install properly.\n\nIf this happens, please check your connection and try again.\n**********",
+      "subtitle": "Social Networking",
+      "tintColor": "",
+      "size": 376359936,
+      "version": "15.3.0",
+      "versionDate": "2025-03-18T20:32:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/LINE_IPA/LINE_14.15.3_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/3d/b4/203db4b7-6083-3fc3-6d32-bcb9a3d16abf/55d0c555-ff65-4ad9-bebe-7e3d13d34e02_Chat_03_5.5_EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/97/85/a19785ee-0002-4c04-e41b-110bbc5153b6/a7f3edf6-aab8-4533-99e9-25cc27fb5bf8_Sticker_3_5.5_EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/c5/7b/f9c57b95-b0eb-12ca-49ce-a7508d5141fe/eadcdbc3-4025-47c0-ba02-b2cf1b8ad31e_EN_03_5.5_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/f2/4c/cbf24cf6-cce9-4499-4468-46fed82ef23e/7f40cd8e-8e96-4b76-a53e-7a5875cddc8f_03_1Call_en.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/a5/f0/7aa5f020-2290-8aba-8336-54444b50ee4a/9738d758-58fa-41b0-aef0-2e77bf9862e9_03_5.5_5_EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/52/13/b6/5213b6c4-9b18-e5de-1b7b-a539b666a688/a0449ed0-3937-4d4f-968a-701ab825d3ee_03_Camera_5.5_7_EN@1x.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/01/c6/c5/01c6c5cb-6f5f-3102-c089-647c95ece4c7/23cda846-56dc-407d-abbc-f746aa201c29_03_OCR_5.5_8_EN@1x.png/392x696bb.png"
+      ]
+    },
+    {
+      "name": "Chợ Tốt -Chuyên mua bán online",
+      "bundleIdentifier": "vn.chotot.iosapp",
+      "developerName": "CHO TOT COMPANY LIMITED",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/00/a5/1700a596-0295-adaf-d6fa-7a2c09faa49e/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Tải ngay Chợ Tốt (Cho Tot) - Ứng dụng mua bán sản phẩm và kết nối dịch vụ trực tuyến hàng đầu Việt Nam với hơn 12 triệu người dùng và 55 triệu lượt truy cập hàng tháng từ đa dạng ngành hàng. Bất kể bạn cần gì, tại Chợ Tốt - Muốn là có. \n\nNỀN TẢNG MUA BÁN VÀ KẾT NỐI DỊCH VỤ TRỰC TUYẾN  HÀNG ĐẦU VIỆT NAM\n● Chợ Tốt (Cho Tot) là ứng dụng cho phép người mua và người bán kết nối và giao dịch an toàn, dễ dàng.\n● Ứng dụng hỗ trợ tìm kiếm nhanh các mẫu tin đăng vô cùng nhanh chóng ở tất cả các danh mục khác nhau từ bất động sản, điện thoại, xe máy, vật nuôi....\n● Ở Chợ Tốt bạn có thể mua bán hàng thật phong phú, đa dạng và độc đáo. \n\nMỘT ỨNG DỤNG, MỌI NHU CẦU\nBất kể thứ nào bạn cần trong từng giai đoạn cuộc đời, đều có thể tìm tại Chợ Tốt. Ngoài trang recommerce, rất nhiều ngành hàng chiến lược được tích hợp vào ứng dụng Chợ Tốt để giúp bạn tìm việc làm, sắm sửa đồ đạc, mua nhà mua xe:\n● Nhà Tốt - nền tảng công nghệ bất động sản ứng dụng dữ liệu lớn để giúp bạn tìm kiếm, mua bán và cho thuê BĐS hiệu quả. Nhatot là proptech giúp môi giới BĐS có thể đăng bán nhiều loại hình đa dạng như nhà phố, nhà hẻm, đất nền, chung cư, shophouse, biệt thự. \n● Việc Làm Tốt - Chuyên trang tìm việc & tuyển dụng việc làm lao động phổ thông, nơi bạn có thể nhanh chóng tìm việc làm LĐPT ở gần nhà. Rất nhiều việc làm toàn thời gian, thời vụ, part-time, việc làm thêm, việc làm sinh viên đang được đăng tuyển tại vieclamtot.\n● Chợ Tốt Xe - Chuyên trang mua bán xe trực tuyến hàng đầu Việt Nam, giúp bạn mua bán xe máy, ô tô, xe tải, xe điện lẫn xe đạp. Chototxe có đa dạng xe máy, xe hơi cũ lẫn xe mới. \n\nĐĂNG TIN DỄ DÀNG - CHỈ TRONG 30S\n● Đăng tin rao vặt mua bán cực đơn giản, chỉ cần chụp hình rồi ấn Đăng tin.\n● Tin đăng có hình giúp bạn tiếp cận 12 triệu nhu cầu mua sắm online tại Việt Nam.\n● Bạn có thể mở Cửa hàng hoặc tạo Tài khoản doanh nghiệp trên Chợ Tốt để dễ dàng quản lý sản phẩm và chuyên nghiệp hoá quy trình bán hàng.\n● Dễ dàng chia sẻ tin đăng rao vặt trên các mạng xã hội khác, giúp thu hút khách hàng, bán hàng hiệu quả hơn. \n\nNHỮNG MÓN ĐỒ ĐƯỢC TÌM KIẾM NHIỀU TRÊN CHỢ TỐT\n● Nhà Tốt (Mua bán nhà đất, Chung cư căn hộ, Thuê nhà trọ…)\n● Nội ngoại thất, Đồ gia dụng (Đồ dùng gia đình, tủ lạnh, máy giặt, máy lạnh, bàn ghế…)\n● Đồ điện tử (Điện thoại, máy tính bảng, lap top, máy ảnh, tivi, loa…)\n● Chợ Tốt Xe (Mua bán các loại xe máy, xe ô tô, xe tải, xe điện, xe đạp...)\n● Nhà Tốt (Nhà đất, chung cư, đất nền, nhà phố, nhà hẻm, shophouse…)\n● Việc Làm Tốt (Việc làm lao động phổ thông, việc công nhân, việc thời vụ…)\n● Thời trang, đồ dùng cá nhân (Quần áo, giày dép, phụ kiện thời trang)\n● Mẹ và bé (Đồ dùng cho bé xe đẩy, Đồ chơi cho bé ..)\n● Giải trí, Thể thao, Sở thích (Dụng cụ thể thao, đồ cổ sưu tầm)\n● Vật nuôi, thú cưng (Chó, Mèo, Gà…)\n● Đồ văn phòng, Công nông nghiệp (Máy in, máy chiếu...)\n\nSĂN HÀNG DỄ DÀNG - MỌI LÚC MỌI NƠI\n● Thoả cơn khát shopping với ứng dụng Chợ Tốt. Tìm ngay món hàng ưng ý bằng các thao tác đơn giản.\n● Liên tục cập nhật sản phẩm, giá bán nhanh chóng với nhiều món hời được thanh lý mới mỗi ngày. Thông tin sản phẩm đầy đủ giúp bạn mua sắm đơn giản hơn tại Chợ Tốt.\n● Đánh dấu hàng hot thật thuận tiện. Lưu tìm kiếm giúp bạn mua sắm tiện lợi dễ dàng.\n● Người dùng có thể tìm chúng tôi bằng các từ khóa chợ tốt, chotot, cho tot, chợtốt, nhà tốt, nhàtốt nha tot, nhatot, việc làm tốt, việclàmtốt, viec lam tot, vieclamtot, chợ tốt xe, chợtốtxe, cho tot xe, chototxe v.v\n\nCHÍNH SÁCH - QUY ĐỊNH\n● Bạn có thể tìm hiểu quy chế hoạt động sàn giao dịch thương mại điện tử chợ tốt tại website: http://trogiup.chotot.com/quy-dinh\n\nTIẾP NHẬN Ý KIẾN PHẢN HỒI\n● Chúng tôi luôn luôn lắng nghe ý kiến từ bạn!\n● Nếu bạn tìm thấy bất kỳ điều gì cải tiến trong khi sử dụng các ứng dụng Chợ Tốt, hoặc có bất kỳ ý tưởng để làm cho việc mua sắm trên các ứng dụng tiện lợi hơn, xin vui lòng cho chúng tôi biết bằng cách Email về trogiup@chotot.vn, hoặc để lại thông tin phản hồi trong App Store.\n\nChúng tôi mong chờ đóng góp từ bạn.",
+      "subtitle": "Shopping",
+      "tintColor": "",
+      "size": 302757888,
+      "version": "4.79.0",
+      "versionDate": "2025-03-10T23:42:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/CHOTOT_IPA/Ch.T.t_4.67.1_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/03/d4/cb/03d4cbe8-f723-e6f2-95fe-c39909642a16/bbebfd18-6196-4cb2-bb17-c0b06ac3346a_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/34/82/a5/3482a52f-c067-cea3-2e00-be7ffb130c8a/5ff3faf8-a531-4dbf-9eb0-21b9518ca704_2_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5c/aa/5e/5caa5e54-59da-0d80-4f87-b545a67ecb1c/ee0cf623-1f1a-4ddd-8c7c-ca939039c48f_3__U00285_U0029.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8c/5e/a2/8c5ea293-e7ab-1a04-c5ea-c0e05c0b9eaa/031a98ff-0e3c-410b-82a8-f6b03aaf9557_4__U00286_U0029.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/99/20/79/992079be-9e33-76b9-37b0-891665b5b91c/14082407-aa34-4e19-9048-945a947c1b8f_5__U00284_U0029.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d5/eb/c1/d5ebc13c-828d-b078-3430-70163a3a3aba/5db14a65-0856-459e-9478-1e32eda435cc_6.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/e2/6e/83e26e97-6b34-28a2-6634-a571ef53d88d/c6c74607-ae08-4ae2-9db4-8c64867cc97e_7__U00281_U0029.jpg/392x696bb.jpg"
+      ]
+    },
+    {
+      "name": "Amazon Shopping",
+      "bundleIdentifier": "com.amazon.Amazon",
+      "developerName": "AMZN Mobile LLC",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/f2/45/eff245e1-aab9-8e49-eef5-172235f8a1a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Amazon Shopping offers app-only benefits to help make shopping on Amazon faster and easier. Browse, view product details, read reviews, and purchase millions of products. Amazon delivers to 100+ countries in as quickly as 3-5 days. Whether you’re buying gifts, reading reviews, tracking orders, scanning products, or just shopping, the Amazon Shopping app offers more benefits than shopping on Amazon via your desktop.   \n\nNever miss a delivery\nGet real-time tracking and delivery notifications so you know where your package is and when it arrives. \n\nKnow exactly what you’re purchasing\nFull 360° product view lets you see items from every angle. “View in you room” makes sure it fits by using your phone’s camera and VR so you can see it in your space. \n\nWe’ll notify you when items go on sale\nJust tap the heart icon to save items to Your Lists and we’ll alert you of price drops so you don’t miss a deal. \n\nNever forget your password\nSave time by staying securely signed in. If you prefer to sign out, use facial or fingerprint identification to sign back in. \n\nConnect with us when it works best for you\nLive chat support is open 24 hours, 7 days a week. Once you’ve started a chat, it stays that way for 24 hours so you don’t have to start your support session from the beginning. \n\nWe’ll find that item for you\nNot sure of an item’s brand or where to but it? Just tap the scan icon in the search bar, take a picture of the item or its barcode, and we’ll find it for you. \n\nIn order to provide a rich experience and enable features such as voice shopping, notifications, visual search, customer reviews, and authentication this app may request permission to access contacts, camera, microphone, notification, touch id, photos and Bluetooth.\n\nAmazon Shopping is available in English, Spanish, German, and Simplified Chinese. In addition to International Shopping, you can change your settings in this single app to shop Amazon.ca, Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.com, Amazon.it, Amazon.es, Amazon.cn, Amazon.co.jp or Amazon.in.\n\nFor customers located within the European Union, United Kingdom or Brazil: By using this app, you agree to Amazon’s Conditions of Use applicable for your country. Please also see the applicable Privacy Notice, Cookies Notice and Interest-Based Ads Notice for your country. Links to these terms and notices can be found in the footer of your local Amazon homepage.\n\nFor all other customers: By using this app, you agree to the applicable Amazon Conditions of Use (e.g. www.amazon.com/conditionsofuse) and Privacy Notice (e.g. www.amazon.com/privacy) for your country. Links to these terms and notices can be found in the footer of your local Amazon homepage.\n\nIf your device supports TrueDepth technology, the app will use your device camera to detect your facial movements only while using certain features such as virtually try-on products like sunglasses. All information processed using this technology remains on your device and is not otherwise stored, processed or shared by Amazon.",
+      "subtitle": "Shopping",
+      "tintColor": "",
+      "size": 228712448,
+      "version": "25.6.2",
+      "versionDate": "2025-03-18T06:18:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/AmazonShopping_IPA/Amazon_23.19.0_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/c2/c4/e0c2c462-9bd4-d076-6061-60abcaa73a87/302f0217-ce5f-45be-869f-7dbee745861a_5.5_1_1242_U200a_U00d7_U200a2208_.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/01/1b/1a011bfd-afb0-fb70-d988-ff86f12cdfeb/37963b79-fb58-466a-8736-fd450ede10d6_5.5_2_1242_U200a_U00d7_U200a2208_.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/e8/35/eae83539-defe-7f62-fcd8-337ab34e9378/a6274e05-7103-4e27-b03f-3fbc1ee14ace_5.5_3_1242_U200a_U00d7_U200a2208_.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/af/a2/35afa2a6-19eb-5d38-44e1-5b933c26513a/c234415e-10d4-4a1e-a4a0-cdc0da1a9f74_5.5_4_1242_U200a_U00d7_U200a2208_.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/49/46/6c4946e7-e7bf-294d-bd85-e01fd8009253/98361d77-755d-4418-8985-984f9e792bca_5.5_5_1242_U200a_U00d7_U200a2208_.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/1e/57/f51e5777-41fe-b289-59dc-7a6384d35dac/2e2b188a-125b-4fad-ac51-3c499288f7c5_5.5_6_1242_U200a_U00d7_U200a2208_.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/d1/e0/49d1e0e3-d5b5-bada-e24e-726a9f6a5c6c/fdf013b3-9a44-49d3-b8c9-97f6caf32f45_5.5_7_1242_U200a_U00d7_U200a2208_.jpg/392x696bb.jpg"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/74/8d/67748d0d-ba92-8268-4c79-798d95f828f4/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you’re a sports fanatic, a pet enthusiast, or just looking for a laugh, there’s something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don’t, and you’ll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to make your day.\n\nWe make it easy for you to discover and create your own original videos by providing easy-to-use tools to view and capture your daily moments. Take your videos to the next level with special effects, filters, music, and more. \n\n■ Watch endless amount of videos customized specifically for you\nA personalized video feed based on what you watch, like, and share. TikTok offers you real, interesting, and fun videos that will make your day.\n \n■ Explore videos, just one scroll away\nWatch all types of videos, from Comedy, Gaming, DIY, Food, Sports, Memes, and Pets, to Oddly Satisfying, ASMR, and everything in between.\n \n■ Pause recording multiple times in one video\nPause and resume your video with just a tap. Shoot as many times as you need.\n \n■ Be entertained and inspired by a global community of creators\nMillions of creators are on TikTok showcasing their incredible skills and everyday life. Let yourself be inspired.\n\n■ Add your favorite music or sound to your videos for free\nEasily edit your videos with millions of free music clips and sounds. We curate music and sound playlists for you with the hottest tracks in every genre, including Hip Hop, Edm, Pop, Rock, Rap, and Country, and the most viral original sounds.\n\n■ Express yourself with creative effects\nUnlock tons of filters, effects, and AR objects to take your videos to the next level.\n\n■ Edit your own videos \nOur integrated editing tools allow you to easily trim, cut, merge and duplicate video clips without leaving the app.\n\n■ Obtain access to LIVE benefits to better interact with hosts!\nChoose from one-month subscription or auto-renewal subscription to enjoy special LIVE benefits (currently only available in limited regions)\n\nNote: \nIf you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nTerms of Service —\nhttps://www.tiktok.com/legal/terms-of-service\n\nPrivacy Policy —\nhttps://www.tiktok.com/legal/privacy-policy\n\n* Any feedback? Contact us at https://www.tiktok.com/legal/report/feedback or tweet us @tiktok_us",
+      "subtitle": "Entertainment",
+      "tintColor": "",
+      "size": 575575040,
+      "version": "39.1.0",
+      "versionDate": "2025-03-17T23:10:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/Tiktok_IPA/TikTok_36.6.0_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/392x696bb.png"
+      ]
+    },
+    {
+      "name": "TikTok Studio",
+      "bundleIdentifier": "com.ss.iphone.tt.creator",
+      "developerName": "TikTok Ltd.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/b4/5e/4cb45e5f-459d-e167-9baf-e62381b2f991/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Welcome to TikTok Studio - where innovation meets creation! \n\nUnleash your creativity with our advanced tools and intuitive capabilities designed to help you and your content stand out. From identifying new opportunities to predictive analytics, TikTok Studio empowers you to take an informed and strategic approach to content creation so you can expand your reach and reach your full potential.\n\n - Innovation: Level up your content with TikTok Studio's innovative features, designed to spark your imagination and maximize your impact.\n\n - Creation: Embark on your TikTok journey with confidence! Our intuitive tools, custom recommendations and tailored tutorials support all types of creator every step of the way. TikTok Studio is your ultimate companion in bringing your creativity to life.\n\n - Safety and Privacy: Create with confidence knowing your content and personal information are safeguarded by robust safety measures. Take and maintain full control over your creativity, content and audience interactions with comprehensive privacy settings and community management tools. Your privacy is our priority, ensuring a secure environment for your creative expression. \n\n - Monetization: Identify more opportunities to get rewarded for your creativity with TikTok Studio's personalized monetization recommendations. and advanced analytics. Gain deeper insights into your payments and optimize your rewards performance effortlessly.\n\n - Audience Insights: Unlock invaluable insights to dive deep into your audience's preferences and behaviors. Identify content and engagement opportunities and tailor your content accordingly to cultivate a thriving community.\n\n - Manage: Seamlessly manage your posts, comments and community engagement all in one place with TikTok Studio’s comprehensive suite of  tools and capabilites\n\nJoin TikTok Studio - Download now and elevate your content creation game!",
+      "subtitle": "Photo & Video",
+      "tintColor": "",
+      "size": 462489600,
+      "version": "37.3.0",
+      "versionDate": "2025-01-08T23:02:00.000Z",
+      "downloadURL": "https://github.com/UCerts/LibraryIPA/releases/download/TikTokStudio_IPA/TikTok.Studio_35.7.0_@UCerts.io_decrypted.ipa",
+      "appPermissions": {},
+      "screenshotURLs": []
+    }
+  ],
+  "news": [
+    {
+      "title": "About USigner",
+      "identifier": "usigner-news",
+      "caption": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "tintColor": "848ef9",
+      "imageURL": "https://ucerts.io/public/icons/navbar_icon.png",
+      "url": "https://ucerts.io/public/icons/navbar_icon.png",
+      "date": "2025-03-23",
+      "notify": false
+    },
+    {
+      "title": "USigner",
+      "identifier": "usigner-news",
+      "caption": "USigner is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "tintColor": "848ef9",
+      "imageURL": "https://ucerts.io/public/icons/navbar_icon.png",
+      "url": "https://ucerts.io/public/icons/navbar_icon.png",
+      "date": "2025-03-23",
+      "notify": true
+    }
+  ]
 }
