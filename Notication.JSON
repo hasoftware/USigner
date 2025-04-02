@@ -1,0 +1,12 @@
+{
+  "notifications": [
+    {
+      "description": "Chào Mừng các bạn đến với USigner",
+      "details": "Nội dung thông báo 1"
+    },
+    {
+      "description": "Thông báo 2",
+      "details": "Nội dung thông báo 2"
+    }
+  ]
+} 
